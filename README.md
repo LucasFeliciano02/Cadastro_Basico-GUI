@@ -4,7 +4,7 @@
 
 <h4 align="center"> 
 ---
-	🚧  Projeto Redimensionador 🚀 Em construção...  🚧
+	🚧  Projeto cadastro 🚀 Em construção...  🚧
 </h4> 
 
 <hr> 
