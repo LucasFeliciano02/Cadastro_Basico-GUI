@@ -46,7 +46,7 @@
 ## :dart: Sobre ##
 
 ```sh
-• Calculadora IMC feita com interface gráfica do python: Tkinter 
+• Cadastro feito em tkinter, que possui conexao com banco de dados sqlite e excell 
 ```
 
 ## :sparkles: Funcionalidades ##
