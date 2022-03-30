@@ -26,7 +26,7 @@
  </div>
  
  
- <h1 align="center">Calculadora-IMC</h1>
+ <h1 align="center">Cadastro básico</h1>
 
 
  
