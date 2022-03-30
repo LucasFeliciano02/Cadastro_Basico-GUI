@@ -38,7 +38,7 @@
 ## :dart: Sobre ##
 
 ```sh
-• Cadastro feito com a GUI tkinter, possui conexao com banco de dados sqlite e excell, onde sao armazenados as informações informadas 
+• Cadastro feito com a GUI tkinter, possui conexao com banco de dados sqlite e excell, onde sao armazenados as informações enviadas 
 ```
 
 ## :sparkles: Funcionalidades ##
