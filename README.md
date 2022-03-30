@@ -15,7 +15,7 @@
 
 
 <div align="center" id="top">
-  <img alt="Cadastro" title="Cadastro" src="./imc.gif"/>
+  <img alt="Cadastro" title="Cadastro" src="./cadastro-Basico.gif"/>
 </h1>
 
  
