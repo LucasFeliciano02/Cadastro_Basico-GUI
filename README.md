@@ -18,7 +18,7 @@
 
 
 <div align="center" id="top">
-  <img alt="Calculadora" title="Calculadora" src="./imc.gif"/>
+  <img alt="Cadastro" title="Calculadora" src="./imc.gif"/>
 </h1>
 
  
