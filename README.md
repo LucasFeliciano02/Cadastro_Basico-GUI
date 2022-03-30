@@ -7,7 +7,7 @@
 
 <hr> -->
 
- <h1 align="center">Cadastro básico</h1>
+
 <div align="center" id="top">
   <img alt="Cadastro" title="Cadastro" src="./cadastro-Basico.gif"/>
 </h1>
@@ -19,10 +19,9 @@
 
  </div>
  
+
+ <h1 align="center">Cadastro básico</h1>
  
-
-
-
  
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
