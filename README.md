@@ -9,7 +9,7 @@
 
 
 <div align="center" id="top">
-  <img alt="Cadastro" title="Cadastro" src="./cadastro-Basico.gif"/>
+  <img alt="Cadastro" title="Cadastro" src="./cadastro-Basico.gif" width="4000"/>
 </h1>
 
  
