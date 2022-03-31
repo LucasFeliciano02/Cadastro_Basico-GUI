@@ -90,13 +90,14 @@ Além disto é bom ter um editor para trabalhar com o código, tal como: [VS Cod
 # Acesse a pasta do projeto que aparecerá em sua área de trabalho
  -> mouse esquerdo -> Abrir com Code
 
-# Baixar Run Code em extensões, pyqt5 no terminal e DESFRUTAR DO CÓDIGO
- -> terminal -> pip install tkinter
-
 # Colocar os seguintes comandos no terminal para ativar o Interpretador do python a fim de rodar o arquivo
  1º  ->  py -m venv venv
  2º  ->  venv\Scripts\activate.bat  
  3º  ->  .\venv\Scripts\activate.bat  
+
+# Baixar Run Code em extensões, tkinter no terminal e DESFRUTAR DO CÓDIGO
+ -> terminal -> pip install tkinter
+
 
 ```
 
