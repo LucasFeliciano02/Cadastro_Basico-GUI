@@ -46,7 +46,6 @@
 
 :heavy_check_mark: Armazenar um cadastro de um cliente por exemplo;\
 :heavy_check_mark: Usar como aplicativo desktop em seu computador;\
-:heavy_check_mark: Em breve disponibilizarei o executável
 
 ## :rocket: Tecnologias ##
  
